@@ -9,11 +9,11 @@ Finally, users can insert calls to the HWT library, and generate identifiers to 
 
 Two papers for this project are published: 
 
-https://doi.org/10.1109/ICPPW.2004.1328024 (https://ieeexplore.ieee.org/document/1328024)
-which is about the basics idea and our method for the relative debugging. 
+https://doi.org/10.1109/ICPPW.2004.1328024 (https://ieeexplore.ieee.org/document/1328024), 
+about the basics idea and our method for the relative debugging in the HWT. 
 
-https://doi.org/10.1109/HPCS.2005.55 (https://ieeexplore.ieee.org/document/1430061)
-which is about the specific HWT software. 
+https://doi.org/10.1109/HPCS.2005.55 (https://ieeexplore.ieee.org/document/1430061), 
+about the specific HWT software. 
 
 
 

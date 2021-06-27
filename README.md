@@ -13,7 +13,7 @@ https://doi.org/10.1109/ICPPW.2004.1328024 (https://ieeexplore.ieee.org/document
 about the basics idea and our method for the relative debugging in the HWT. 
 
 https://doi.org/10.1109/HPCS.2005.55 (https://ieeexplore.ieee.org/document/1430061), 
-about the specific HWT software. 
+about this specific HWT software. 
 
 
 
